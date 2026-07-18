@@ -383,5 +383,3 @@ All configuration is centralized in `config.py`:
 - **Web dashboard** — replace OpenCV window with browser-based UI
 
 ---
-
-*Project developed during internship — OIRS 4-Mirror Auto-Alignment System*
